@@ -1,1 +1,1 @@
-# Gymso Fitness Club Project Using HTML SCSS
+# Gymso Fitness Club Project Using HTML and SCSS
